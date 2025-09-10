@@ -1,0 +1,5 @@
+1. git clone <url>: lấy dự án có sẵn của vùng Remote về máy tính cá nhân(Local)
+2. git branch <branch-name>: Tạo branch mới
+3. git checkout <branch-name>: Switch sang branch mới
+4. Git checkout -b <branch-name>: Vừa tạo ra 1 branch mới vừa switch sang branch mới đó
+5. Git pull origin master: Lấy dữ liệu của branch origin về branch master
