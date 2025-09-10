@@ -3,3 +3,4 @@
 3. git checkout <branch-name>: Switch sang branch mới
 4. Git checkout -b <branch-name>: Vừa tạo ra 1 branch mới vừa switch sang branch mới đó
 5. Git pull origin master: Lấy dữ liệu của branch origin về branch master
+
